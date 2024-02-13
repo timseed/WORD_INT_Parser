@@ -27,4 +27,6 @@ It is up to you.
 
 Should you want to see what is going on 'under the hood' - then uncomment yydebug=1 
 
+# Developed and Compiled
 
+Using MacOS. Bison and Flex from *brew*. 
