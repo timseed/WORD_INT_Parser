@@ -23,7 +23,7 @@ You now could try and extend it to recognize
 
 It is up to you. 
 
-#Debugging 
+# Debugging 
 
 Should you want to see what is going on 'under the hood' - then uncomment yydebug=1 
 
